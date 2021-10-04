@@ -127,13 +127,13 @@
   }
   
   ::-moz-selection {
-    background: rgb(var(--gradient-primary));
-    color: var(--text-normal);
+    background: #FF66B2;
+    color: #FF66B2;
   }
   
   ::selection {
-    background: rgb(var(--gradient-primary));
-    color: var(--text-normal);
+    background: #FF66B2;
+    color: #FF66B2;
   }
   
   #app-mount .app-2rEoOp::before {
